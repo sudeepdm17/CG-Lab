@@ -92,6 +92,5 @@ int main(int argc,char ** argv)
 	glEnable(GL_LIGHT0);
 	glEnable(GL_NORMALIZE);
 	glutMainLoop();
-
 	return 0;
 }
